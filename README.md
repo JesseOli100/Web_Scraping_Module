@@ -23,3 +23,9 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
    
    * Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
 
+     ![Snip20240102_4](https://github.com/JesseOli100/Web_Scraping_Module/assets/62526904/ea4a7fe7-2df1-4be3-904e-599dc6c0cdde)
+
+   * Store all the dictionaries in a Python list.
+  
+   * Print the list in your notebook.
+
