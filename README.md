@@ -59,3 +59,7 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
             * Visually estimate the result by plotting the daily minimum temperature.
 6. Export the DataFrame to a CSV file.
 
+- - - - - - - 
+
+This is submitted by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
+
